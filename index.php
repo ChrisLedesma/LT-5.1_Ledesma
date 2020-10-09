@@ -49,6 +49,7 @@
                 justify-content: center;
             }
         </style>
+        <title>SVG</title>
     </head>
     <body>
     <div class="header"><a href="https://github.com/ChrisLedesma/LT-5.1_Ledesma" target="_blank">Github</a></div>
